@@ -1,0 +1,5 @@
+streamlit>=1.40
+pandas>=2.0
+# Optional - only if you want the LLM planner / LLM-written drafts (pick one provider):
+anthropic>=0.40
+openai>=1.50
