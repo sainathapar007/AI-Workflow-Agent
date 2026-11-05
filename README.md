@@ -15,6 +15,11 @@ python mcp_server.py              # optional: expose the agent over MCP (stdio)
 Optional LLM planner/drafts: set `ANTHROPIC_API_KEY` or `OPENAI_API_KEY` (and `LLM_PROVIDER`, `LLM_MODEL`, `OPENAI_MODEL`).
 Without a key everything runs on the rule-based planner.
 
+
+
+<img width="1327" height="888" alt="Screenshot 2026-11-05 165229" src="https://github.com/user-attachments/assets/17fd44cf-6ff9-4f71-9c62-b7c9eeb66466" />
+
+
 ## What's new in v2
 | Area | Feature |
 |---|---|
